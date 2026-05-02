@@ -10,7 +10,7 @@ I work at the intersection of full-stack engineering and applied AI — building
 
 - Working on an end to end **RAG platform over financial and regulatory documents**, enabling semantic search and grounded Q&A across large unstructured datasets
 - Exploring **LLM agents, evaluation frameworks (RAGAS, TruLens), and multi-agent orchestration**
-- Open to **high-impact roles and selective consulting**
+- Open to **high impact roles and selective consulting**
 
 ### Stack
 
