@@ -2,7 +2,7 @@
 
 Full Stack & AI Engineer · Bangalore · 11 years shipping production software
 
-I work at the intersection of full-stack engineering and applied AI — building systems that turn real-world problems into reliable software. I care more about clarity and outcomes than novelty for its own sake.
+I work at the intersection of full-stack engineering and applied AI — building systems that turn real world problems into reliable software. I care more about clarity and outcomes than novelty for its own sake.
 
 ---
 
